@@ -24,8 +24,8 @@ To write a Java program that reads an array of integers and finds the index of a
 ## PROGRAM:
  ```
 Program to implement a Array concept using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
