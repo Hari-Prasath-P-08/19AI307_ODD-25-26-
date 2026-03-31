@@ -20,8 +20,8 @@ To implement the Factory Design Pattern to send different types of notifications
 ## PROGRAM:
  ```
 Program to implement a Abstract Factory Pattern using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
