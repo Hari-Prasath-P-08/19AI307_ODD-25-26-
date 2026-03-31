@@ -27,8 +27,8 @@ To write a Java program that defines a method cube(int x) which internally calls
 ## PROGRAM:
  ```
 Program to implement a Methods using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
