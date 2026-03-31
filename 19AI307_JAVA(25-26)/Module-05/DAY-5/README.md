@@ -30,8 +30,8 @@ To demonstrate the use of a synchronized block for safely swapping two integer v
 ## PROGRAM:
  ```
 Program to implement a Synchronization concept using Java
-Developed by: MOHAMMED FAIZAL J
-RegisterNumber: 212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
