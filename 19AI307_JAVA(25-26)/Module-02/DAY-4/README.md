@@ -33,8 +33,8 @@ To write a Java program that initializes object variables using a constructor an
 ## PROGRAM:
  ```
 Program to implement a Variable scope and Constructor using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
