@@ -37,8 +37,8 @@ To simulate a radar control system where only one tower instance handles multipl
 ## PROGRAM:
  ```
 Program to implement a SOLID Principles in Java Program
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
