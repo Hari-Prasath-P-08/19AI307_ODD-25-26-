@@ -43,8 +43,8 @@ To write a Java program that uses conditional statements to determine the state 
 ## PROGRAM:
  ```
 Program to implement a conditional statement using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## Sourcecode.java:
