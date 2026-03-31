@@ -18,8 +18,8 @@ To handle a NullPointerException when performing operations on a null string in 
 ## PROGRAM:
  ```
 Program to implement a Exception Handling using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
