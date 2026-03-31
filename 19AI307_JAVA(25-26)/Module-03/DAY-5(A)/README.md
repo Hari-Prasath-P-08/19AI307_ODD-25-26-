@@ -16,8 +16,8 @@ To demonstrate accessing an inner class from an outer class in Java.
 ## PROGRAM:
  ```
 Program to implement a InnerClass using Java
-Developed by: MOHAMMED FAIZAL J
-Register Number:212222100027
+Developed by: HARI PRASATH P
+Register Number:212223230070
 ```
 
 ## SOURCE CODE:
